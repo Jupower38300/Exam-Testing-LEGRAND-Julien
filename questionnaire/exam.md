@@ -158,9 +158,6 @@ Lequel de ces frameworks n'est PAS utilisé pour les tests unitaires ?
 
 Quels rôles sont généralement impliqués dans le processus BDD ?
 
-- A) Uniquement les développeurs
-- B) Développeurs et testeurs
-- C) Développeurs, testeurs et product owners
 - D) Développeurs, testeurs, product owners et parties prenantes métier
 
 ### Maintenance des tests end-to-end
@@ -191,10 +188,7 @@ En quoi les tests fonctionnels diffèrent-ils des tests unitaires et d'intégrat
 
 Quelle approche combine naturellement TDD, BDD et Gherkin ?
 
-- A) Extreme Programming
-- B) Specification By Example
-- C) Scrum
-- D) Kanban
+Nous n'avons pas vu cela.
 
 ### Organisation des tests fonctionnels
 

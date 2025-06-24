@@ -7,7 +7,7 @@ Votre tâche est d'écrire des tests unitaires pour ce module en utilisant vites
 - Assurez-vous de tester les cas normaux et les cas d'erreur
 - Organisez vos tests en groupes logiques avec describe
 - Utilisez des assertions pertinentes pour vérifier le comportement attendu
-- Assurez vous que vos tests respectent ce que l'on a vu au cours du module concernant les tests unitaires 
+- Assurez vous que vos tests respectent ce que l'on a vu au cours du module concernant les tests unitaires.
 
 ## Critères d'évaluation
 
@@ -21,5 +21,6 @@ Votre travail sera évalué sur les critères suivants :
 - Respect des bonnes pratiques vues en cours
 
 ## Modifications possible
+
 Vous pouvez modifier le code pour assurer une meilleure robustesse du code ou si vous trouvez que des cas ne sont pas totalement gérés.
 **Pensez bien à mettre un commentaire dans le test et dans le fichier pour que je puisse voir ce que vous avez modifié**

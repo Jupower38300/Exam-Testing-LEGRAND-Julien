@@ -1,6 +1,11 @@
-export type ProductCategory = 'starter' | 'main' | 'dessert' | 'drink';
-export type OrderStatus = 'pending' | 'preparing' | 'ready' | 'delivered' | 'cancelled';
-export type PaymentMethod = 'cash' | 'credit_card' | 'online';
+export type ProductCategory = "starter" | "main" | "dessert" | "drink";
+export type OrderStatus =
+  | "pending"
+  | "preparing"
+  | "ready"
+  | "delivered"
+  | "cancelled";
+export type PaymentMethod = "cash" | "credit_card" | "online";
 
 export interface IProduct {
   id: string;
